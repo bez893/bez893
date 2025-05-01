@@ -1,7 +1,7 @@
 # Hi, I'm Bezawit Admasu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7A&center=true&width=435&lines=Web+Developer;Information+Systems+Student;Poet+%26+Artist;Future+Graphic+Designer;Lover+of+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7A&center=true&width=435&lines=Web+Developer;Information+Systems+Student;Poet+%26+...;Future+Graphic+Designer;Lover+of+Creativity" alt="Typing SVG" />
 </p>
 
 ### About Me
