@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7A&center=true&width=435&lines=Web+Developer;Information+Systems+Student;Poet+%26+Artist;Future+Graphic+Designer;Lover+of+Creativity" alt="Typing SVG" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=bez893&color=brightgreen)
+
 ### About Me
 - 🎓 Student at: Bahir Dar University  
 - 💻 Profession: Web Developer | Information Systems Student  
@@ -36,5 +36,5 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bezawitadmasu&show_icons=true&theme=radical" alt="Bezawit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bez893&show_icons=true&theme=radical" alt="Bezawit's GitHub stats" />
 </p>
